@@ -1,0 +1,12 @@
+{
+    "name": "pauldossantos/190409_les-vues-avec-twig",
+    "authors": [
+        {
+            "name": "Paul DOS SANTOS",
+            "email": "eoras@outlook.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
